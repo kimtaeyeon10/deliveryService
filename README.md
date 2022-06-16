@@ -9,18 +9,18 @@
 ### 코로나로 늘어나는 배달 수요로 배달앱(맥딜리버리) 서비스를 생각하여 개발해보았습니다.    
 ### 프로젝트 내용 :   
 ### (1) 구성    
-#### - 총 3개의 프로젝트파일 {서버사이드 1 , 클라이언트 사이드 2( 로그인, 주문 )}    
-### (2) 프로그램 구조 _ client side _ MemberService    
+#### - 총 3개의 프로젝트파일 {서버 1 , 클라이언트  2( MemberService, OrderService )}    
+### (2) 프로그램 구조 _ client  _ MemberService    
 
   ![delivery_c1_memSer](https://user-images.githubusercontent.com/105413173/173966195-38dc4b58-8940-41bb-af63-3349b8d4739b.JPG)
 
-### (3) 프로그램 구조 _ client side _ OrderService    
+### (3) 프로그램 구조 _ client  _ OrderService    
 
   ![delivery_c2_orderSer](https://user-images.githubusercontent.com/105413173/173966232-d1bce681-62cf-44d9-895b-7040082470b6.JPG)
 
 ### 본인 역할 :  
-### 클라이언트 서버의 주문 기능을 구현   
-#### - MyBatis로 CRUD 기능 ( 메뉴 보여주기, 장바구니 담기, 장바구니 보여주기)    
+#### 클라이언트 주문서비스를 맡아서 구현.
+
   
   
 ### 배운점 :    
